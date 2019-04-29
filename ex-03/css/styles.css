@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+}
+h1, hr {
+    margin-bottom: 30px;
+}
+.blue {
+    color: blue;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.blue-sozinho {
+    color: blue;
+    text-decoration: underline;
+    text-transform: uppercase;
+    margin-top: 20px;
+    font-size: 25px;
+}
+.green {
+    color: green;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.red {
+    color: red;
+    margin-top: 20px;
+    font-size: 22px;
+}
+.paragrafo-grande {
+    font-size: 25px;
+}
+.paragrafo-pequeno {
+    font-size: 14px;
+}
