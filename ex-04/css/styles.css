@@ -1,0 +1,14 @@
+img {
+    width: 225px;
+    height: 225px;
+    border: 5px solid red;
+    margin-right: 20px;
+}
+.primeira-div {
+    display: flex;
+    margin: 10px 5px;
+}
+.link {
+    display: flex;
+    margin-top: 20px;
+}
