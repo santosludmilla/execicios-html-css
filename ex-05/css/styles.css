@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.primeira-div {
+    background: rebeccapurple;
+    width: 1000px;
+    min-height: 100px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+body {display: flex;
+    justify-content: center;
+}
+.segunda-div {
+    background: grey;
+    width: 225px;
+    margin-bottom: 30px;
+}
+.segunda-div h3 {
+    text-align: center;
+}
+.segunda-div h3,
+.segunda-div p {
+    font-family: sans-serif;
+    margin-bottom: 5px;
+    color: white;
+}
+.segunda-div p {
+    padding: 10px;
+    text-align: justify;
+    font-size: 14px;
+}
+img {
+    width: 225px;
+    height: 225px;
+}
